@@ -21,7 +21,7 @@ The PCAP Analyzer is a tool for analyzing PCAP (packet capture) files to identif
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/pcap-analyzer.git
+   git clone https://github.com/sickcell6000/pcap-analyzer.git
    cd pcap-analyzer
    ```
 
